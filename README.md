@@ -1,4 +1,4 @@
-# 🚀 Multi-Agent Task Orchestration System (MVP)
+# 🚀 Multi-Agent Task Orchestration System 
 
 A lightweight yet extensible multi-agent system built with LLMs, designed to automatically decompose, execute, and validate complex tasks through collaborative agents.
 
@@ -118,8 +118,3 @@ This system demonstrates how LLMs can be orchestrated to:
 
 Feel free to fork, improve, and submit PRs!
 
----
-
-## 📄 License
-
-MIT License
